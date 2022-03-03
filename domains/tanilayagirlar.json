@@ -1,0 +1,11 @@
+{
+  "description": "R.Tanılay Ağırlar | Personal Website",
+  "repo": "https://github.com/tanilayagirlar",
+  "owner": {
+    "username": "tanilayagirlar",
+    "email": "receptanilay.agirlar@ogr.bandirma.edu.tr"
+  },
+  "record": {
+    "CNAME": "tanilayagirlar.github.io"
+  }
+}
